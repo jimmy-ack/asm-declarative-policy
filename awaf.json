@@ -9,7 +9,7 @@
             }
         ],
         "signature-settings": {
-            "signatureStaging": false
+            "signatureStaging": true
         },
         "signatures": [
             {
