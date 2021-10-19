@@ -1,7 +1,7 @@
 {
     "policy": {
         "name": "my-test-app",
-        "description": "My AWAF policy example",
+        "description": "My AWAF policy update",
         "enforcementMode": "transparent",
         "server-technologies": [
             {
